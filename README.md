@@ -18,7 +18,7 @@
 [![Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=assembly)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
