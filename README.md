@@ -20,7 +20,7 @@
 | - [ ] Ottimizzazione query SQL (#15) | - [ ] Integrazione GitHub Actions (#5) | - [x] Setup del repository (#2) |
 | - [ ] Scrittura documentazione finale | | - [x] Definizione architettura (#3) |
 
-👉 *Per la gestione interattiva delle task e i dettagli dei bug, consulta il [GitHub Project Ufficiale](IL_LINK_DEL_TUO_PROGETTO).*
+👉 *Per la gestione interattiva delle task e i dettagli dei bug, consulta il [GitHub Project Ufficiale](https://github.com/users/andcecche/projects/5).*
 # 💻 Tech Stack:
 
 [![Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
