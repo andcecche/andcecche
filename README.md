@@ -12,7 +12,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cecche___) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cecchettoandrea06@gmail.com) 
 # Projects Status 
 
-**[What I'am working ok:](https://github.com/users/andcecche/projects/5)**
+## 📊 Project Status
+
+| 🔴 TO DO  | 🟡 IN PROGRESS   | 🟢 DONE  |
+| :--- | :--- | :--- |
+| - [ ] Implementare cifratura password (#12) | - [ ] Creazione interfaccia grafica (#8) | - [x] Configurazione Database (#1) |
+| - [ ] Ottimizzazione query SQL (#15) | - [ ] Integrazione GitHub Actions (#5) | - [x] Setup del repository (#2) |
+| - [ ] Scrittura documentazione finale | | - [x] Definizione architettura (#3) |
+
+👉 *Per la gestione interattiva delle task e i dettagli dei bug, consulta il [GitHub Project Ufficiale](IL_LINK_DEL_TUO_PROGETTO).*
 # 💻 Tech Stack:
 
 [![Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
