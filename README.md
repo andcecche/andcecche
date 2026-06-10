@@ -4,7 +4,7 @@
 
 <br/>
 
-# 💫 About Me:
+
 🔭 Units Student<br>
 
 
