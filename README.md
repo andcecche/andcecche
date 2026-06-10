@@ -10,7 +10,9 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cecche___) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cecchettoandrea06@gmail.com) 
+# Projects Status 
 
+**[What I'am working ok:](https://github.com/users/andcecche/projects/5)**
 # 💻 Tech Stack:
 
 [![Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
