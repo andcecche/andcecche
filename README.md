@@ -16,9 +16,9 @@
 
 | 🔴 TO DO  | 🟡 IN PROGRESS   | 🟢 DONE  |
 | :--- | :--- | :--- |
-| - [ ] Implementare cifratura password (#12) | - [ ] Creazione interfaccia grafica (#8) | - [x] Configurazione Database (#1) |
-| - [ ] Ottimizzazione query SQL (#15) | - [ ] Integrazione GitHub Actions (#5) | - [x] Setup del repository (#2) |
-| - [ ] Scrittura documentazione finale | | - [x] Definizione architettura (#3) |
+| - [ ]  | - [ ] Creazione interfaccia grafica (#8) | - [x] Consegnare esercizi lab2 |
+| - [ ]  | - [ ] Integrazione GitHub Actions (#5) | - [] |
+| - [ ]  | | - []  |
 
 👉 *Per la gestione interattiva delle task e i dettagli dei bug, consulta il [GitHub Project Ufficiale](https://github.com/users/andcecche/projects/5).*
 # 💻 Tech Stack:
