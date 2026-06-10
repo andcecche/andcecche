@@ -15,7 +15,7 @@
 
 [![Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=html5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 # 💻 Tech Stack:
