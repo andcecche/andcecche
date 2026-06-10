@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Andrea Cecchetto 👋
 
 # 💫 About Me:
 🔭 Units Student<br>
