@@ -3,16 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile;Happy+to+see+you+here;I+never+quite+realized;How+beautiful+this+World+is+...;Stay+as+long+as+you+need)](https://git.io/typing-svg)
 
 <br/>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/andcecche/github-readme/main/output/contribs-dark.svg"
-  />
-  <img
-    alt="Isometric GitHub contribution chart"
-    src="https://raw.githubusercontent.com/andcecche/github-readme/main/output/contribs-light.svg"
-  />
-</picture>
+
 
 
 🔭 Units Student<br>
